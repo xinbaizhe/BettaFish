@@ -25,7 +25,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
+fish/
+.env
 # PyInstaller
 *.manifest
 *.spec
